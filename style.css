@@ -67,7 +67,7 @@ a {
   background:
     linear-gradient(rgba(15, 28, 46, 0.5), rgba(15, 28, 46, 0.9)),
     url('casa-narino.jpg') center / cover;
-      min-height: 75vh;
+      min-height: 100vh;
       display: flex;
       align-items: center;
       color: #fff;
