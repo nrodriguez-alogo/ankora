@@ -66,7 +66,7 @@ a {
 .hero {
   background:
     linear-gradient(rgba(15, 28, 46, 0.5), rgba(15, 28, 46, 0.9)),
-    url('/casa-narino.jpg') center / cover;
+    url('casa-narino.jpg') center / cover;
       min-height: 75vh;
       display: flex;
       align-items: center;
